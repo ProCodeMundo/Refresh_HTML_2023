@@ -1,0 +1,43 @@
+Learn Html  -Full Tutorial for Beginners (2002)
+
+G:\My Drive\Education Folder\Coding Folder\Web Developer\Web Page Project\html_course\01_Lesson
+G:\My Drive\Education Folder\Coding Folder\Web Developer\Web Page Project\html_course\01_Lesson
+
+C:\Users\Raes9\OneDrive\Desktop\html_course\01_Lesson
+
+Time: 59.57
+Youtube video: https://www.youtube.com/watch?v=kUMe1FH4CHE
+
+Github Code page link: https://github.com/gitdagray/html_course
+
+Validator page: https://validator.w3.org/
+
+Important Tags:
+<!-- "Comment text" -->
+
+
+Tags hiarchy:
+H1: Title
+H2: Sub Title
+H3: Description 
+
+Chapter 4:
+List Hiarchy 
+<ol>: Order List
+    <li>: List item (Numbers)
+        <ul>: Unordered List (Dots)
+
+
+Description List
+<dl>: Description List
+    <dt>: Description term
+    <dd>: Description Detail
+
+
+Replacing all tags at once :Control D will select the next tag --> delete and add new tag 
+Tag 1 "Text"
+Tag 2 "Text"
+Tag 3 "Text"
+
+Chapter 5 
+Time: 59.57
